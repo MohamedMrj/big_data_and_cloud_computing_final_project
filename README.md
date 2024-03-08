@@ -4,7 +4,7 @@
 
 ## Figure_1:
 `Original Sentiment Distribution (Figure 1):`
-This bar chart represents the distribution of sentiments in your dataset. It shows how many comments are neutral (0), positive (1), and negative (2). The majority of comments are neutral, followed by a significant number of positive comments, and fewer negative comments.
+This bar chart represents the distribution of sentiments in the dataset. It shows how many comments are neutral (0), positive (1), and negative (2). The majority of comments are neutral, followed by a significant number of positive comments, and fewer negative comments.
 
 ![Figure_2](https://github.com/MohamedMrj/big_data_and_cloud_computing_final_project/assets/113178714/7f6723e7-f819-4390-a450-4d92beeb1b2e)
 
@@ -16,13 +16,13 @@ This graph shows the model's loss on the training set and the validation set ove
 
 ## Figure_3:
 `Confusion Matrix (Figure 3):`
-The confusion matrix shows the performance of your model in terms of the true labels versus the predicted labels. The diagonal entries (top-left to bottom-right) represent correct predictions, while off-diagonal entries represent incorrect predictions. In this matrix, it appears that the model performs well in predicting neutral and positive sentiments but is less accurate with negative sentiments, possibly due to fewer training examples for that class.
+The confusion matrix shows the performance of the model in terms of the true labels versus the predicted labels. The diagonal entries (top-left to bottom-right) represent correct predictions, while off-diagonal entries represent incorrect predictions. In this matrix, it appears that the model performs well in predicting neutral and positive sentiments but is less accurate with negative sentiments, possibly due to fewer training examples for that class.
 
 ![Figure_4](https://github.com/MohamedMrj/big_data_and_cloud_computing_final_project/assets/113178714/2115d84d-3781-4754-a1b3-4692d67513a3)
 
 ## Figure_4:
 `Training and Validation Accuracy (Figure 4):`
-This plot shows the accuracy of your model during training (how well it predicts the training data) versus validation (how well it predicts a subset of the data not used in training). The accuracy on the training set is fluctuating, which might indicate that the model is struggling to learn consistent patterns. The validation accuracy is generally lower than the training accuracy, which is expected, but it's also fluctuating, indicating potential issues with model capacity, overfitting, or the representativeness of the validation set.
+This plot shows the accuracy of the model during training (how well it predicts the training data) versus validation (how well it predicts a subset of the data not used in training). The accuracy on the training set is fluctuating, which might indicate that the model is struggling to learn consistent patterns. The validation accuracy is generally lower than the training accuracy, which is expected, but it's also fluctuating, indicating potential issues with model capacity, overfitting, or the representativeness of the validation set.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
