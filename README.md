@@ -10,7 +10,7 @@ This project aims to perform sentiment analysis on YouTube video comments. It in
 - `preprocess.py`: Implements text preprocessing functions such as tokenization, stopwords removal, stemming, and lemmatization.
 - `visualize.py`: Provides functions to visualize sentiment distribution, model training history, and a confusion matrix of predictions.
 - `Components/get_video_comments.py`: A module to fetch comments from a specified YouTube video using the YouTube Data API.
-- `README.md`: This file, providing an overview and instructions for the project.
+- `README.md`: This file, provides an overview and instructions for the project.
 
 ## Dependencies
 This project requires Python 3.8 or later, with the following packages:
@@ -55,7 +55,7 @@ Here's the revised section for the setup instructions in your README, considerin
    python main.py
    ```
 
-   This command runs the `main.py` script, which fetches comments, processes them, trains the LSTM model, and generates visualization of the sentiment analysis.
+   This command runs the `main.py` script, which fetches comments, processes them, trains the LSTM model, and generates a visualization of the sentiment analysis.
 
 ## Running the Project
 1. Navigate to the root directory of the project in your terminal.
@@ -72,5 +72,3 @@ Contributions to this project are welcome. Please fork the repository, make your
 This project is open-sourced under the MIT License. See the LICENSE file for more details.
 
 ---
-
-Remember to replace placeholder texts with specific details about your project, such as how to obtain the YouTube Data API key, specific commands to run for setting up the environment, and any additional steps needed to get the project running.
