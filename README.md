@@ -53,7 +53,9 @@ You will also need a valid YouTube Data API key to fetch comments from YouTube v
 1. **Python Installation**: Ensure Python 3.8 or later is installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
 
 2. **Project Clone**: Clone this repository to your local machine by running
-```bash git clone https://github.com/MohamedMrj/big_data_and_cloud_computing_final_project/```
+   ```bash
+   git clone https://github.com/MohamedMrj/big_data_and_cloud_computing_final_project/
+   ```
 in your terminal or command prompt.
 
 4. **Install Dependencies**: Navigate to the root directory of the project in your terminal. Install the required Python packages by executing:
