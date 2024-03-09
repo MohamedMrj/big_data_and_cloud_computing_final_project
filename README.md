@@ -52,9 +52,11 @@ You will also need a valid YouTube Data API key to fetch comments from YouTube v
 ## Setup Instructions
 1. **Python Installation**: Ensure Python 3.8 or later is installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
 
-2. **Project Clone**: Clone this repository to your local machine by running `git clone https://github.com/MohamedMrj/big_data_and_cloud_computing_final_project/` in your terminal or command prompt.
+2. **Project Clone**: Clone this repository to your local machine by running
+```bash git clone https://github.com/MohamedMrj/big_data_and_cloud_computing_final_project/```
+in your terminal or command prompt.
 
-3. **Install Dependencies**: Navigate to the root directory of the project in your terminal. Install the required Python packages by executing:
+4. **Install Dependencies**: Navigate to the root directory of the project in your terminal. Install the required Python packages by executing:
 
    ```bash
    pip install -r requirements.txt
@@ -62,7 +64,7 @@ You will also need a valid YouTube Data API key to fetch comments from YouTube v
 
    This command reads the `requirements.txt` file and installs all the packages listed there, ensuring you have all the necessary dependencies.
 
-4. **API Key Configuration**: To fetch comments from YouTube videos, you need a valid YouTube Data API key. Follow the instructions provided by Google [here](https://developers.google.com/youtube/v3/getting-started) to obtain one. Once you have your API key, create a file named `creds.py` inside the `Components` directory. Add your API key to this file as follows:
+5. **API Key Configuration**: To fetch comments from YouTube videos, you need a valid YouTube Data API key. Follow the instructions provided by Google [here](https://developers.google.com/youtube/v3/getting-started) to obtain one. Once you have your API key, create a file named `creds.py` inside the `Components` directory. Add your API key to this file as follows:
 
    ```python
    API_KEY = 'your_api_key_here'
@@ -70,7 +72,7 @@ You will also need a valid YouTube Data API key to fetch comments from YouTube v
 
    Replace `'your_api_key_here'` with your actual YouTube Data API key.
 
-5. **Run the Project**: With the dependencies installed and the API key configured, you're ready to run the project. Ensure you're still in the root directory of the project and execute:
+6. **Run the Project**: With the dependencies installed and the API key configured, you're ready to run the project. Ensure you're still in the root directory of the project and execute:
 
    ```bash
    python main.py
