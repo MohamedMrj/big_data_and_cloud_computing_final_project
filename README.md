@@ -49,10 +49,6 @@ This project requires Python 3.8 or later, with the following packages:
 
 You will also need a valid YouTube Data API key to fetch comments from YouTube videos.
 
-If you have a `requirements.txt` file in your project, it's important to mention it in the README file, especially in the setup instructions, to ensure users know how to install the necessary dependencies for your project. Since it seems you might already have setup instructions that mention installing dependencies via `requirements.txt`, I'll adjust the README template to highlight this file more explicitly.
-
-Here's the revised section for the setup instructions in your README, considering the `requirements.txt`:
-
 ## Setup Instructions
 1. **Python Installation**: Ensure Python 3.8 or later is installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
 
