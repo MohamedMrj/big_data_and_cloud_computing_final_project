@@ -4,7 +4,6 @@ nltk.download('vader_lexicon')  # Download VADER lexicon for sentiment analysis
 nltk.download('punkt')  # Download Punkt Tokenizer models
 nltk.download('stopwords')  # Download stopwords
 nltk.download('wordnet')  # Download WordNet
-
 from get_video_comments import video_comments  # Import function to get video comments
 import csv  # Import module to work with CSV files
 from preprocess import preprocess_text  # Import function to preprocess text
