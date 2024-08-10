@@ -1,3 +1,4 @@
+This project aims to perform sentiment analysis on YouTube video comments. It involves fetching comments for a specific video, preprocessing the text data, training a Long Short-Term Memory (LSTM) neural network model to classify comments into positive, negative, or neutral sentiments, and visualizing the results.
 
 # YouTube Comment Sentiment Analysis
 ![Figure_1](https://github.com/MohamedMrj/big_data_and_cloud_computing_final_project/assets/113178714/89704d87-ed33-43f1-83db-727a368bb3aa)
